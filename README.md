@@ -15,4 +15,8 @@ The dataset includes:
 
 ## Requirements
 - Python 3.x
-- Libraries: numpy, pandas, scikit-learn, seaborn, matplotlib
+- Libraries: numpy, pandas, sci-kit-learn, seaborn, matplotlib
+
+Identified key factors influencing crop yields, such as rainfall and temperature, enabling data-driven decisions for farmers and policymakers.
+
+Reduced dataset dimensionality by 90% while retaining critical information, improving computational efficiency.
